@@ -1,0 +1,51 @@
+#topMenu {
+	
+	position: fixed;
+	right: 0;
+	top: 0;
+	left: 0;
+	background: -webkit-gradient(linear, left top, left bottom, from(#d3d3d3), to(#b0b0b0));
+	height: 50px;
+	width: 100%;
+	display: table;
+}
+
+#topMenu span{
+	display: table-cell;
+	vertical-align: middle;
+	margin-top: 14px;
+	margin-right: 10px;
+}
+
+#userData{
+	padding: 10px;
+}
+
+#userPicture{
+	background-image: url("../images/noPicture.png");
+	display: inline-block;
+	height: 64px;
+	width: 64px;
+}
+
+#userName{
+	color: #D4D4D4;
+	text-transform:capitalize;
+	vertical-align: top;
+}
+
+#logout{
+	background-image: url("../images/power.png");
+	background-size: 24px;
+	display: inline-block;
+	height: 24px;
+	width: 24px;
+}
+
+.menuBar{
+	background-color: #444;
+}
+
+.dashboardContent{
+	background-color: #EEE;
+}
