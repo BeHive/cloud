@@ -51,8 +51,8 @@ body {
 }
 
 .cloud:after {
-	width: 115px;
-	height: 115px;
+	width: 120px;
+	height: 120px;
 	left: auto;
 	right: 40px;
 	top: -55px
