@@ -12,6 +12,7 @@ function doLogin(){
 	}	
 	
 	if($("#username").val().length != 0 && $("#password").val().length != 0){
+		$("#loginForm").fadeOut();
 		$("#loader").fadeIn();
 		$.ajax({
 			type: "POST",
@@ -21,16 +22,17 @@ function doLogin(){
 				password: $("#password").val()
 			},
 			success: function(data,status,hdr){
-			debugger;
 				if(hdr.getResponseHeader("CLOUD-Status") == "error"){
 					$("#login").addClass("error").attr("data-tooltip",hdr.getResponseHeader("CLOUD-Message"));
 					$("#username").val("");
 					$("#password").val("");
+					$("#loginForm").fadeIn();
 				}
 				else{
+					$("#pageContent").hide();
 					$("#loader").fadeOut();
-					$("#loginForm").fadeOut();
 					$("#pageContent").html(data);
+					$("#pageContent").show("slide",{direction:'right'},1000);
 				}
 				
 			}
@@ -51,5 +53,8 @@ $(function(){
     	    $("#login").click();
 		}
 	});
-	setTimeout(function(){$("#loginForm").fadeIn();}, 1000);
+	$(".cloudLogo").off("click").on("click",function(){
+		$(".cloudLogo").fadeOut();
+		setTimeout(function() { $("#loginForm").fadeIn(); }, 400);
+	})
 })
