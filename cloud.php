@@ -38,9 +38,10 @@ function doLogin(){
 		else{	
 			$_SESSION['USER'] = $_POST['username'];
 			$_SESSION['TIMER'] = time();
-			$_SESSION['USERNAME'] = $rows[0]['fst_name'].' '.$rows[0]['lst_name'];
-			$_SESSION['LOCATION'] = 'main.php';
-			include('main.php');
+			$_SESSION['SHORTNAME'] = $rows[0]['fst_name'];
+			$_SESSION['FULLNAME'] = $rows[0]['fst_name'].' '.$rows[0]['lst_name'];
+			$_SESSION['LOCATION'] = 'dashboard.php';
+			include('dashboard.php');
 		}
 		$con = null;
 		
@@ -54,7 +55,7 @@ function doLogin(){
 function doLogout(){
 	session_unset();
 	$_SESSION['LOCATION'] = 'login.html';
-	include('login.html');
+	include('index.html');
 }
 
 function checkSession($action){
