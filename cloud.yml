@@ -1,0 +1,7 @@
+db:
+ host: localhost
+ dbname: cloud
+ user: root
+ pass: ad1das+0
+session:
+ timeout: 60
