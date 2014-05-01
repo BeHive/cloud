@@ -32,10 +32,12 @@ $(document).ready(function(){
     	    $("#login").click();
 		}
 	});
-	$(".cloudLogo").off("click").on("click",function(){
-		$(".cloudLogo").fadeOut();
-		setTimeout(function() { $("#loginForm").fadeIn(); }, 400);
-	})
+	
+	$(".cloud").on("mouseover",function(){
+		$(".cloud").fadeOut(200);
+		setTimeout(function() { $("#loginForm").fadeIn(200); $("#username").focus();}, 200);
+	});
+	
 })
 
 function doLogin(){
@@ -80,14 +82,13 @@ function doLogin(){
 	}
 }
 
-function logout(){
-	$("#loader").fadeIn();
+function doLogout(){
 	$.ajax({
 			type: "POST",
 			url: "cloud.php?action=doLogout",
 			success: function(data,status,hdr){
-				$("#loader").fadeOut();
-				$("#pageContent").html(data);
+				$("#pageContent").hide("slide",{direction:'right'},1000);
+				setTimeout(function() { $("#pageContent").html(data).fadeIn(200); }, 1000);
 			}
 	});
 }
