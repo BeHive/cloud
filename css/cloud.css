@@ -1,0 +1,89 @@
+body {
+	/* background-image: url('../images/bg.jpg'); */
+	background-color: #444;
+	font-family: Montserrat, sans-serif;
+	font-size: 12px;
+	color: #444;
+	line-height: 16px; 
+}
+
+.bigText{
+	font-size: 18px;
+	line-height: 18px; 
+}
+
+#pageContent{
+	height: 100%;
+	width: 100%;
+}
+
+.error{
+	border: 1px solid #dd0000 !important;
+	box-shadow: 0px 0px 2px #ff0000;
+	
+}
+
+
+
+/* buttons */
+
+.btn-grey{
+	display: block;
+	float: right;
+	padding: 3px 5px 3px 5px;
+	border-radius: 3px;
+	cursor: pointer;
+	text-align:center;
+	background: -webkit-gradient(linear, left top, left bottom, from(#e1e1e1), to(#c3c3c3));
+} 
+.btn-grey:active{
+	background: #e1e1e1;
+}
+
+.btn-blue{
+	display: block;
+	float: right;
+	padding: 3px 5px 3px 5px;
+	border-radius: 3px;
+	cursor: pointer;
+	text-align:center;
+	color:#f7f7f7;
+	background: -webkit-gradient(linear, left top, left bottom, from(#00c8ff), to(#018eb6));
+} 
+.btn-blue:active{
+	background: #018eb6;
+}
+
+
+.overlay {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+	background-color: rgba(0,0,0,0.5);
+}
+
+/* fields */
+
+.field200{
+	border-radius: 3px;
+	width: 200;	
+}
+
+input{
+	font-size: 14px;
+	background: none repeat scroll 0 0 white;
+	border: 1px solid #e1e1e1;
+	color: #adadad;
+	height: 26px;
+	padding: 0 3px;
+	margin: 0;
+	outline: 0;
+	line-height: normal;
+	vertical-align: baseline;
+	border-radius: 3px;
+	width: 100%;
+}
