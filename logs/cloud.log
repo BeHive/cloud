@@ -626,3 +626,28 @@
 [2014/05/02 06:36:07] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008950;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
 [2014/05/02 06:36:07] entering with action = 'dashboard'
 [2014/05/02 06:36:07] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008950;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:39:48] entering with action = 'doLogout'
+[2014/05/02 06:39:48] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008967;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:39:50] entering with action = 'hasSession'
+[2014/05/02 06:39:50] a:0:{}
+[2014/05/02 06:39:52] entering with action = 'hasSession'
+[2014/05/02 06:39:52] a:0:{}
+[2014/05/02 06:40:08] entering with action = 'doLogin'
+[2014/05/02 06:40:08] a:0:{}
+[2014/05/02 06:40:08] logging in user admin
+[2014/05/02 06:44:48] entering with action = 'hasSession'
+[2014/05/02 06:44:48] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009208;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:44:48] entering with action = 'dashboard'
+[2014/05/02 06:44:48] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009208;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:45:12] entering with action = 'hasSession'
+[2014/05/02 06:45:12] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009488;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:45:12] entering with action = 'dashboard'
+[2014/05/02 06:45:12] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009488;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:45:25] entering with action = 'hasSession'
+[2014/05/02 06:45:25] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009512;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:45:25] entering with action = 'dashboard'
+[2014/05/02 06:45:25] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009512;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:46:13] entering with action = 'hasSession'
+[2014/05/02 06:46:13] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009525;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:46:13] entering with action = 'dashboard'
+[2014/05/02 06:46:13] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399009525;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
