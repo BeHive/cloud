@@ -6,22 +6,18 @@ $settings = sfYaml::load('cloud.yml');
 
 session_start();
 
+writeLog("entering with action = '".$_GET['action']."'",4);
+writeLog(serialize($_SESSION),4);
+
 if(!isset($_GET['action']))
-	if(isset($_SESSION['LOCATION']))
-		include($_SESSION['LOCATION']);
-	else{
-		$_SESSION['LOCATION'] = 'login.html';
-		include('login.html');
-	}
-elseif($_GET['action'] == 'doLogin')
-	doLogin();
-
+	doLogout();
+elseif($_GET['action'] == 'doLogin' || $_GET['action'] == 'hasSession')
+	call_user_func($_GET['action']);
 else
-	if(checkSession($_GET['action']))
-		call_user_func($_GET['action']);
-
+	checkSession($_GET['action']);
 	
 function doLogin(){
+writeLog("logging in user ".$_POST['username'],3);
 	global $settings;
 	try {
 		$con = new PDO("mysql:host=".$settings['db']['host'].";dbname=".$settings['db']['dbname'], $settings['db']['user'], $settings['db']['pass']);
@@ -38,33 +34,68 @@ function doLogin(){
 		else{	
 			$_SESSION['USER'] = $_POST['username'];
 			$_SESSION['TIMER'] = time();
+			$_SESSION['SESSIONTIMEOUT'] = $settings['session']['timeout'];
 			$_SESSION['SHORTNAME'] = $rows[0]['fst_name'];
 			$_SESSION['FULLNAME'] = $rows[0]['fst_name'].' '.$rows[0]['lst_name'];
-			$_SESSION['LOCATION'] = 'dashboard.php';
-			include('dashboard.php');
+			dashboard();
 		}
 		$con = null;
 		
 	} catch(PDOException $ex) {
+		writeLog("error connecting to database",1);
 		header("CLOUD-Status: error");
 		header("CLOUD-Message: System unavailable");
 	}
 	
 }
 
+function dashboard(){
+	include('dashboard.php');
+}
+
 function doLogout(){
 	session_unset();
-	$_SESSION['LOCATION'] = 'login.html';
 	include('index.html');
 }
 
 function checkSession($action){
 	global $settings;
-	if(!isset($_SESSION['USER']) || (time() - $_SESSION['TIMER']) > $settings['session']['timeout'] || !is_callable($action))
+	if(!isset($_SESSION['USER']) || (time() - $_SESSION['TIMER']) > $_SESSION['SESSIONTIMEOUT'] || !is_callable($action))
 		doLogout();
 	else{
 		$_SESSION['TIMER'] = time();
-		$_SESSION['ACTION'] = $action;
-		return true;
+		call_user_func($action);
+	}
+}
+
+function hasSession(){
+	global $settings;
+	if(!isset($_SESSION['USER']) || (time() - $_SESSION['TIMER']) > $_SESSION['SESSIONTIMEOUT']){
+		$arr = array('hasSession' => false, 'action' => 'doLogout');
+		doLogout();
+	}
+	else{
+		$arr = array('hasSession' => true, 'action' => 'dashboard');
+	}
+	
+	echo json_encode($arr);
+	
+}
+
+function writeLog($msg,$lvl){
+/*
+lvl 0 - off
+lvl 1 - error
+lvl 2 - warning
+lvl 3 - info
+lvl 4 - debug
+*/
+	global $settings;
+
+	if($settings['log']['level'] >= $lvl){
+		$fd = fopen($settings['log']['file'], "a");
+		$str = "[" . date("Y/m/d h:i:s", time()) . "] " . $msg; 
+		fwrite($fd, $str . "\n");
+		fclose($fd);
 	}
 }
