@@ -33,10 +33,12 @@ $(document).ready(function(){
 		}
 	});
 	
-	$(".cloud").on("mouseover",function(){
+	$(".cloudLogo").on("mouseover",function(){
 		$(".cloud").fadeOut(200);
 		setTimeout(function() { $("#loginForm").fadeIn(200); $("#username").focus();}, 200);
 	});
+	
+	hasSession();
 	
 })
 
@@ -90,5 +92,26 @@ function doLogout(){
 				$("#pageContent").hide("slide",{direction:'right'},1000);
 				setTimeout(function() { $("#pageContent").html(data).fadeIn(200); }, 1000);
 			}
+	});
+}
+
+function hasSession(){
+	$.ajax({
+		type: "POST",
+		url: "cloud.php?action=hasSession",
+		dataType: "json",
+		success: function(data,status,hdr){
+			if(data.hasSession){
+				$.ajax({
+					type: "POST",
+					url: "cloud.php?action="+data.action,
+					success: function(data,status,hdr){
+						$("#pageContent").html(data);
+							
+					}
+				});
+			}
+				
+		}
 	});
 }
