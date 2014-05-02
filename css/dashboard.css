@@ -29,23 +29,111 @@
 }
 
 #userName{
-	color: #D4D4D4;
-	text-transform:capitalize;
-	vertical-align: top;
+text-transform: capitalize;
+position: absolute;
+margin-left: 10px;
 }
 
 #logout{
 	background-image: url("../images/power.png");
-	background-size: 24px;
 	display: inline-block;
-	height: 24px;
-	width: 24px;
+	height: 19px;
+	width: 17px;
 }
 
 .menuBar{
 	background-color: #444;
+	color: #D4D4D4;
+}
+
+#menu{
+	list-style-type: none;
+}
+
+#menu .item{
+	margin-left: -40px;
+	padding-top: 15px;
+	display: inline-flex;
+	cursor: hand;
+	width: 200px;
+}
+
+#menu .item:hover{
+	color: #FFF
+}
+
+#menu .item:before{
+	content: '';
+	height: 40;
+	width: 40;
+	background-color: #444;
+	position: relative;
+	-webkit-transform: rotate(45deg);
+	left: 170px;
+	top: -8;
+	visibility: hidden;
+}
+#menu .item.active:before {
+	visibility: visible;
+}
+
+#menu .divider{
+	border-bottom: 1px solid #3C3C3C;
+	margin-left: -40px;
+	padding-left: 10px;
 }
 
 .dashboardContent{
 	background-color: #EEE;
 }
+
+#progressbar {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ui-progressbar {
+    height: 12px;
+    background: #2a2b2f !important;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, .3) inset, 0 1px 0 rgba(255, 255, 255, .15);
+}
+
+.ui-progressbar-value {
+    margin: 3px !important;
+    height: 6px !important;
+    background: #a6dc00 !important;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset, 0 1px 0 rgba(0, 0, 0, .5);
+}
+
+.cloudBack{
+	padding: 50px;
+	color: #d4d4d4;
+	font-size: 90;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -75px;
+}
+
+.cloudBack:before {
+	top: 1px;
+	left: 1px;
+}
+
+.cloudBack:before, .cloudBack:after {
+	content: 'cloud';
+	padding: 54px;
+	color: rgba(255,255,255,.1);
+	position: absolute;
+}
+
+.cloudBack:after {
+	top: 2px;
+	left: 2px;
+}
+
