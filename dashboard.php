@@ -1,7 +1,3 @@
-<? php
-session_start();
-global $settings;
-?>
 
 <link rel="stylesheet" type="text/css" href="css/dashboard.css">
 
