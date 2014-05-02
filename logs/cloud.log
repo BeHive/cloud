@@ -1,0 +1,628 @@
+[2014/05/02 03:39:22] entering with action = 'hasSession'
+[2014/05/02 03:40:20] entering with action = 'doLogin'
+[2014/05/02 03:40:20] logging in user admin
+[2014/05/02 03:40:51] entering with action = 'doLogout'
+[2014/05/02 03:40:51] logging out user admin
+[2014/05/02 03:41:47] entering with action = 'hasSession'
+[2014/05/02 03:42:10] entering with action = 'hasSession'
+[2014/05/02 03:42:23] entering with action = 'hasSession'
+[2014/05/02 03:43:09] entering with action = 'doLogin'
+[2014/05/02 03:43:09] logging in user admin
+[2014/05/02 03:43:15] entering with action = 'hasSession'
+[2014/05/02 03:43:23] entering with action = 'hasSession'
+[2014/05/02 03:43:39] entering with action = 'hasSession'
+[2014/05/02 03:45:08] entering with action = 'doLogin'
+[2014/05/02 03:45:08] logging in user admin
+[2014/05/02 03:45:12] entering with action = 'hasSession'
+[2014/05/02 03:45:12] no session found
+[2014/05/02 03:46:05] entering with action = 'hasSession'
+[2014/05/02 03:46:05] no session found
+[2014/05/02 03:46:40] entering with action = 'doLogin'
+[2014/05/02 03:46:40] logging in user admin
+[2014/05/02 03:46:47] entering with action = 'hasSession'
+[2014/05/02 03:46:47] no session found
+[2014/05/02 03:47:44] entering with action = 'doLogin'
+[2014/05/02 03:47:44] Array
+[2014/05/02 03:47:44] logging in user admin
+[2014/05/02 03:48:43] entering with action = 'doLogin'
+[2014/05/02 03:48:43] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398998864;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:48:43] logging in user admin
+[2014/05/02 03:49:12] entering with action = 'doLogin'
+[2014/05/02 03:49:12] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398998864;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:49:12] logging in user admin
+[2014/05/02 03:49:21] entering with action = 'hasSession'
+[2014/05/02 03:49:21] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398998952;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:49:21] no session found
+[2014/05/02 03:50:40] entering with action = 'doLogin'
+[2014/05/02 03:50:40] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398998952;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:50:40] logging in user admin
+[2014/05/02 03:50:44] entering with action = 'doLogin'
+[2014/05/02 03:50:44] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398998952;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:50:44] logging in user admin
+[2014/05/02 03:50:50] entering with action = 'hasSession'
+[2014/05/02 03:50:50] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999044;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:50:50] no session found - admin - 6
+[2014/05/02 03:51:32] entering with action = 'hasSession'
+[2014/05/02 03:51:32] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999044;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:51:32] no session found - admin - 48 - 
+[2014/05/02 03:51:44] entering with action = 'doLogin'
+[2014/05/02 03:51:44] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999044;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:51:44] logging in user admin
+[2014/05/02 03:51:58] entering with action = 'hasSession'
+[2014/05/02 03:51:58] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999104;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:51:58] no session found - admin - 14 - 
+[2014/05/02 03:53:02] entering with action = 'hasSession'
+[2014/05/02 03:53:02] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999104;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:53:02] no session found - admin - 78 - 60
+[2014/05/02 03:53:41] entering with action = 'hasSession'
+[2014/05/02 03:53:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999104;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:53:41] no session found - admin - 117 - 60
+[2014/05/02 03:53:44] entering with action = 'hasSession'
+[2014/05/02 03:53:44] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999104;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:53:44] no session found - admin - 120 - 60
+[2014/05/02 03:54:14] entering with action = 'hasSession'
+[2014/05/02 03:54:14] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999104;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:54:14] logging out user admin
+[2014/05/02 03:54:14] no session found -  - 1398999254 - 60
+[2014/05/02 03:54:18] entering with action = 'hasSession'
+[2014/05/02 03:54:18] a:0:{}
+[2014/05/02 03:54:18] logging out user 
+[2014/05/02 03:54:18] no session found -  - 1398999258 - 60
+[2014/05/02 03:54:26] entering with action = 'doLogin'
+[2014/05/02 03:54:26] a:0:{}
+[2014/05/02 03:54:26] logging in user admin
+[2014/05/02 03:54:29] entering with action = 'hasSession'
+[2014/05/02 03:54:29] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999266;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:54:29] session found for user admin
+[2014/05/02 03:55:27] entering with action = 'hasSession'
+[2014/05/02 03:55:27] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999266;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:55:27] logging out user admin
+[2014/05/02 03:55:50] entering with action = 'hasSession'
+[2014/05/02 03:55:50] a:0:{}
+[2014/05/02 03:55:50] logging out user 
+[2014/05/02 03:55:58] entering with action = 'hasSession'
+[2014/05/02 03:55:58] a:0:{}
+[2014/05/02 03:55:58] logging out user 
+[2014/05/02 03:56:22] entering with action = 'hasSession'
+[2014/05/02 03:56:22] a:0:{}
+[2014/05/02 03:56:22] logging out user 
+[2014/05/02 03:56:28] entering with action = 'doLogin'
+[2014/05/02 03:56:28] a:0:{}
+[2014/05/02 03:56:28] logging in user admin
+[2014/05/02 03:56:36] entering with action = 'hasSession'
+[2014/05/02 03:56:36] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999388;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:56:41] entering with action = 'hasSession'
+[2014/05/02 03:56:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999388;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:58:29] entering with action = 'hasSession'
+[2014/05/02 03:58:29] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999388;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:58:29] logging out user admin
+[2014/05/02 03:58:37] entering with action = 'doLogin'
+[2014/05/02 03:58:37] a:0:{}
+[2014/05/02 03:58:37] logging in user admin
+[2014/05/02 03:58:41] entering with action = 'hasSession'
+[2014/05/02 03:58:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999517;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:58:41] entering with action = 'dashboard'
+[2014/05/02 03:58:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999517;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:11] entering with action = 'hasSession'
+[2014/05/02 03:59:11] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999521;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:11] entering with action = 'dashboard'
+[2014/05/02 03:59:11] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999521;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:14] entering with action = 'hasSession'
+[2014/05/02 03:59:14] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999551;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:14] entering with action = 'dashboard'
+[2014/05/02 03:59:14] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999551;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:15] entering with action = 'hasSession'
+[2014/05/02 03:59:15] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999554;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:15] entering with action = 'dashboard'
+[2014/05/02 03:59:15] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999554;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:19] entering with action = 'doLogout'
+[2014/05/02 03:59:19] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999555;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:19] logging out user admin
+[2014/05/02 03:59:20] entering with action = 'hasSession'
+[2014/05/02 03:59:20] a:0:{}
+[2014/05/02 03:59:20] logging out user 
+[2014/05/02 03:59:25] entering with action = 'hasSession'
+[2014/05/02 03:59:25] a:0:{}
+[2014/05/02 03:59:25] logging out user 
+[2014/05/02 03:59:32] entering with action = 'doLogin'
+[2014/05/02 03:59:32] a:0:{}
+[2014/05/02 03:59:32] logging in user admin
+[2014/05/02 03:59:37] entering with action = 'doLogin'
+[2014/05/02 03:59:37] a:0:{}
+[2014/05/02 03:59:37] logging in user admin
+[2014/05/02 03:59:39] entering with action = 'hasSession'
+[2014/05/02 03:59:39] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999577;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:39] entering with action = 'dashboard'
+[2014/05/02 03:59:39] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999577;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:40] entering with action = 'hasSession'
+[2014/05/02 03:59:40] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999579;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:40] entering with action = 'dashboard'
+[2014/05/02 03:59:40] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999579;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:40] entering with action = 'hasSession'
+[2014/05/02 03:59:40] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999580;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:40] entering with action = 'dashboard'
+[2014/05/02 03:59:40] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999580;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:41] entering with action = 'hasSession'
+[2014/05/02 03:59:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999580;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:41] entering with action = 'dashboard'
+[2014/05/02 03:59:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999580;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:48] entering with action = 'doLogout'
+[2014/05/02 03:59:48] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1398999581;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 03:59:48] logging out user admin
+[2014/05/02 03:59:49] entering with action = 'hasSession'
+[2014/05/02 03:59:49] a:0:{}
+[2014/05/02 03:59:49] logging out user 
+[2014/05/02 04:01:55] entering with action = 'hasSession'
+[2014/05/02 04:01:55] a:0:{}
+[2014/05/02 04:01:55] logging out user 
+[2014/05/02 04:02:01] entering with action = 'hasSession'
+[2014/05/02 04:02:01] a:0:{}
+[2014/05/02 04:02:01] logging out user 
+[2014/05/02 04:02:02] entering with action = 'hasSession'
+[2014/05/02 04:02:02] a:0:{}
+[2014/05/02 04:02:02] logging out user 
+[2014/05/02 04:02:27] logging out user 
+[2014/05/02 04:02:28] logging out user 
+[2014/05/02 04:02:29] logging out user 
+[2014/05/02 04:02:29] logging out user 
+[2014/05/02 04:02:29] logging out user 
+[2014/05/02 04:02:30] logging out user 
+[2014/05/02 04:02:30] logging out user 
+[2014/05/02 04:02:30] logging out user 
+[2014/05/02 04:02:30] logging out user 
+[2014/05/02 04:06:21] entering with action = 'hasSession'
+[2014/05/02 04:06:21] a:0:{}
+[2014/05/02 04:06:21] logging out user 
+[2014/05/02 04:08:32] entering with action = 'hasSession'
+[2014/05/02 04:08:32] a:0:{}
+[2014/05/02 04:08:32] logging out user 
+[2014/05/02 04:14:01] entering with action = 'hasSession'
+[2014/05/02 04:14:01] a:0:{}
+[2014/05/02 04:14:01] logging out user 
+[2014/05/02 04:14:06] entering with action = 'doLogin'
+[2014/05/02 04:14:06] a:0:{}
+[2014/05/02 04:14:06] logging in user admin
+[2014/05/02 04:17:37] entering with action = 'hasSession'
+[2014/05/02 04:17:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000446;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:37] entering with action = 'dashboard'
+[2014/05/02 04:17:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000446;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:37] entering with action = 'hasSession'
+[2014/05/02 04:17:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000657;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:37] entering with action = 'dashboard'
+[2014/05/02 04:17:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000657;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:38] entering with action = 'hasSession'
+[2014/05/02 04:17:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000657;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:38] entering with action = 'hasSession'
+[2014/05/02 04:17:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000657;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:38] entering with action = 'dashboard'
+[2014/05/02 04:17:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000657;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:38] entering with action = 'hasSession'
+[2014/05/02 04:17:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:38] entering with action = 'hasSession'
+[2014/05/02 04:17:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:38] entering with action = 'dashboard'
+[2014/05/02 04:17:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:39] entering with action = 'hasSession'
+[2014/05/02 04:17:39] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:39] entering with action = 'dashboard'
+[2014/05/02 04:17:39] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:49] entering with action = 'hasSession'
+[2014/05/02 04:17:49] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000659;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:49] entering with action = 'dashboard'
+[2014/05/02 04:17:49] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000659;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:49] entering with action = 'hasSession'
+[2014/05/02 04:17:49] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000669;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:49] entering with action = 'dashboard'
+[2014/05/02 04:17:49] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000669;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:51] entering with action = 'doLogout'
+[2014/05/02 04:17:51] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000669;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:17:51] logging out user admin
+[2014/05/02 04:17:52] entering with action = 'hasSession'
+[2014/05/02 04:17:52] a:0:{}
+[2014/05/02 04:17:52] logging out user 
+[2014/05/02 04:17:53] entering with action = 'hasSession'
+[2014/05/02 04:17:53] a:0:{}
+[2014/05/02 04:17:53] logging out user 
+[2014/05/02 04:17:54] entering with action = 'hasSession'
+[2014/05/02 04:17:54] a:0:{}
+[2014/05/02 04:17:54] logging out user 
+[2014/05/02 04:17:58] entering with action = 'doLogin'
+[2014/05/02 04:17:58] a:0:{}
+[2014/05/02 04:17:58] logging in user admin
+[2014/05/02 04:18:00] entering with action = 'hasSession'
+[2014/05/02 04:18:00] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000678;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:18:00] entering with action = 'dashboard'
+[2014/05/02 04:18:00] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000678;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:26:58] entering with action = 'hasSession'
+[2014/05/02 04:26:58] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000680;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:26:58] entering with action = 'dashboard'
+[2014/05/02 04:26:58] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399000680;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:27:25] entering with action = 'hasSession'
+[2014/05/02 04:27:25] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001218;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:27:25] entering with action = 'dashboard'
+[2014/05/02 04:27:25] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001218;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:28:26] entering with action = 'hasSession'
+[2014/05/02 04:28:26] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001245;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:28:26] entering with action = 'dashboard'
+[2014/05/02 04:28:26] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001245;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:28:41] entering with action = 'hasSession'
+[2014/05/02 04:28:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001306;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:28:41] entering with action = 'dashboard'
+[2014/05/02 04:28:41] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001306;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:28:45] entering with action = 'hasSession'
+[2014/05/02 04:28:45] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001321;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:28:45] entering with action = 'dashboard'
+[2014/05/02 04:28:45] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001321;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:31:32] entering with action = 'hasSession'
+[2014/05/02 04:31:32] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001325;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:31:32] entering with action = 'dashboard'
+[2014/05/02 04:31:32] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001325;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:31:37] entering with action = 'hasSession'
+[2014/05/02 04:31:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001492;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:31:37] entering with action = 'dashboard'
+[2014/05/02 04:31:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001492;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:31:53] entering with action = 'hasSession'
+[2014/05/02 04:31:53] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001497;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:31:53] entering with action = 'dashboard'
+[2014/05/02 04:31:53] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001497;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:32:55] entering with action = 'hasSession'
+[2014/05/02 04:32:55] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001513;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:32:55] entering with action = 'dashboard'
+[2014/05/02 04:32:55] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001513;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:34:07] entering with action = 'doLogout'
+[2014/05/02 04:34:07] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001575;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:34:07] logging out user admin
+[2014/05/02 04:34:25] entering with action = 'hasSession'
+[2014/05/02 04:34:25] a:0:{}
+[2014/05/02 04:34:25] logging out user 
+[2014/05/02 04:34:29] entering with action = 'doLogin'
+[2014/05/02 04:34:29] a:0:{}
+[2014/05/02 04:34:29] logging in user admin
+[2014/05/02 04:38:21] entering with action = 'hasSession'
+[2014/05/02 04:38:21] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001669;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:38:21] entering with action = 'dashboard'
+[2014/05/02 04:38:21] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001669;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:38:57] entering with action = 'hasSession'
+[2014/05/02 04:38:57] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001901;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:38:57] entering with action = 'dashboard'
+[2014/05/02 04:38:57] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001901;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:42:24] entering with action = 'hasSession'
+[2014/05/02 04:42:24] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001937;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:42:24] entering with action = 'dashboard'
+[2014/05/02 04:42:24] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399001937;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:42:36] entering with action = 'hasSession'
+[2014/05/02 04:42:36] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002144;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:42:36] entering with action = 'dashboard'
+[2014/05/02 04:42:36] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002144;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:46:16] entering with action = 'doLogout'
+[2014/05/02 04:46:16] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002156;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:46:16] logging out user admin
+[2014/05/02 04:46:17] entering with action = 'hasSession'
+[2014/05/02 04:46:17] a:0:{}
+[2014/05/02 04:46:17] logging out user 
+[2014/05/02 04:46:25] entering with action = 'hasSession'
+[2014/05/02 04:46:25] a:0:{}
+[2014/05/02 04:46:25] logging out user 
+[2014/05/02 04:46:26] entering with action = 'hasSession'
+[2014/05/02 04:46:26] a:0:{}
+[2014/05/02 04:46:26] logging out user 
+[2014/05/02 04:46:29] entering with action = 'doLogin'
+[2014/05/02 04:46:29] a:0:{}
+[2014/05/02 04:46:29] logging in user admin
+[2014/05/02 04:46:31] entering with action = 'doLogout'
+[2014/05/02 04:46:31] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002389;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:46:31] logging out user admin
+[2014/05/02 04:46:32] entering with action = 'doLogout'
+[2014/05/02 04:46:32] a:0:{}
+[2014/05/02 04:46:32] logging out user 
+[2014/05/02 04:46:32] entering with action = 'hasSession'
+[2014/05/02 04:46:32] a:0:{}
+[2014/05/02 04:46:32] logging out user 
+[2014/05/02 04:46:33] entering with action = 'hasSession'
+[2014/05/02 04:46:33] a:0:{}
+[2014/05/02 04:46:33] logging out user 
+[2014/05/02 04:47:00] entering with action = 'hasSession'
+[2014/05/02 04:47:00] a:0:{}
+[2014/05/02 04:47:04] entering with action = 'doLogin'
+[2014/05/02 04:47:04] a:0:{}
+[2014/05/02 04:47:04] logging in user admin
+[2014/05/02 04:47:06] entering with action = 'doLogout'
+[2014/05/02 04:47:06] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002424;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:47:07] entering with action = 'doLogout'
+[2014/05/02 04:47:07] a:0:{}
+[2014/05/02 04:47:07] entering with action = 'hasSession'
+[2014/05/02 04:47:07] a:0:{}
+[2014/05/02 04:47:08] entering with action = 'hasSession'
+[2014/05/02 04:47:08] a:0:{}
+[2014/05/02 04:50:15] entering with action = 'hasSession'
+[2014/05/02 04:50:15] a:0:{}
+[2014/05/02 04:50:20] entering with action = 'doLogin'
+[2014/05/02 04:50:20] a:0:{}
+[2014/05/02 04:50:20] logging in user admin
+[2014/05/02 04:50:44] entering with action = 'hasSession'
+[2014/05/02 04:50:44] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002620;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:50:44] entering with action = 'dashboard'
+[2014/05/02 04:50:44] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002620;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:51:02] entering with action = 'hasSession'
+[2014/05/02 04:51:02] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002644;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:51:02] entering with action = 'dashboard'
+[2014/05/02 04:51:02] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002644;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:52:11] entering with action = 'hasSession'
+[2014/05/02 04:52:11] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002662;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:52:11] entering with action = 'dashboard'
+[2014/05/02 04:52:11] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002662;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:53:11] entering with action = 'doLogout'
+[2014/05/02 04:53:11] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002731;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:53:12] entering with action = 'doLogout'
+[2014/05/02 04:53:12] a:0:{}
+[2014/05/02 04:53:12] entering with action = 'hasSession'
+[2014/05/02 04:53:12] a:0:{}
+[2014/05/02 04:53:13] entering with action = 'hasSession'
+[2014/05/02 04:53:13] a:0:{}
+[2014/05/02 04:54:45] entering with action = 'hasSession'
+[2014/05/02 04:54:45] a:0:{}
+[2014/05/02 04:54:57] entering with action = 'doLogin'
+[2014/05/02 04:54:57] a:0:{}
+[2014/05/02 04:54:57] logging in user admin
+[2014/05/02 04:55:57] entering with action = 'doLogout'
+[2014/05/02 04:55:57] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399002897;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:55:58] entering with action = 'hasSession'
+[2014/05/02 04:55:58] a:0:{}
+[2014/05/02 04:56:45] entering with action = 'hasSession'
+[2014/05/02 04:56:45] a:0:{}
+[2014/05/02 04:56:49] entering with action = 'doLogin'
+[2014/05/02 04:56:49] a:0:{}
+[2014/05/02 04:56:49] logging in user admin
+[2014/05/02 04:57:14] entering with action = 'hasSession'
+[2014/05/02 04:57:14] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003009;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 04:57:14] entering with action = 'dashboard'
+[2014/05/02 04:57:14] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003009;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:06:47] entering with action = 'hasSession'
+[2014/05/02 05:06:47] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003034;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:06:47] entering with action = 'dashboard'
+[2014/05/02 05:06:47] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003034;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:06:49] entering with action = 'hasSession'
+[2014/05/02 05:06:49] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003607;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:06:49] entering with action = 'dashboard'
+[2014/05/02 05:06:49] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003607;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:06:50] entering with action = 'hasSession'
+[2014/05/02 05:06:50] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003609;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:06:50] entering with action = 'dashboard'
+[2014/05/02 05:06:50] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003609;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:07:42] entering with action = 'hasSession'
+[2014/05/02 05:07:42] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003610;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:07:42] entering with action = 'dashboard'
+[2014/05/02 05:07:42] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003610;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:12:31] entering with action = 'doLogout'
+[2014/05/02 05:12:31] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399003662;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:12:33] entering with action = 'hasSession'
+[2014/05/02 05:12:33] a:0:{}
+[2014/05/02 05:13:30] entering with action = 'hasSession'
+[2014/05/02 05:13:30] a:0:{}
+[2014/05/02 05:13:34] entering with action = 'doLogin'
+[2014/05/02 05:13:34] a:0:{}
+[2014/05/02 05:13:34] logging in user admin
+[2014/05/02 05:17:22] entering with action = 'hasSession'
+[2014/05/02 05:17:22] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004014;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:17:22] entering with action = 'dashboard'
+[2014/05/02 05:17:22] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004014;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:17:34] entering with action = 'hasSession'
+[2014/05/02 05:17:34] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004242;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:17:34] entering with action = 'dashboard'
+[2014/05/02 05:17:34] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004242;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:23:53] entering with action = 'hasSession'
+[2014/05/02 05:23:53] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004254;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:23:53] entering with action = 'dashboard'
+[2014/05/02 05:23:53] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004254;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:24:17] entering with action = 'hasSession'
+[2014/05/02 05:24:17] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004633;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:24:18] entering with action = 'dashboard'
+[2014/05/02 05:24:18] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004633;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:24:18] entering with action = 'hasSession'
+[2014/05/02 05:24:18] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:24:18] entering with action = 'dashboard'
+[2014/05/02 05:24:18] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:25:30] entering with action = 'hasSession'
+[2014/05/02 05:25:30] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:25:30] entering with action = 'dashboard'
+[2014/05/02 05:25:30] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004658;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:25:31] entering with action = 'hasSession'
+[2014/05/02 05:25:31] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004730;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:25:31] entering with action = 'dashboard'
+[2014/05/02 05:25:31] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004730;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:25:32] entering with action = 'hasSession'
+[2014/05/02 05:25:32] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004731;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:25:32] entering with action = 'dashboard'
+[2014/05/02 05:25:32] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004731;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:26:02] entering with action = 'hasSession'
+[2014/05/02 05:26:02] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004732;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:26:02] entering with action = 'dashboard'
+[2014/05/02 05:26:02] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004732;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:26:38] entering with action = 'hasSession'
+[2014/05/02 05:26:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004762;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:26:38] entering with action = 'dashboard'
+[2014/05/02 05:26:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004762;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:29:20] entering with action = 'hasSession'
+[2014/05/02 05:29:20] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004798;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:29:20] entering with action = 'dashboard'
+[2014/05/02 05:29:20] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004798;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:29:42] entering with action = 'hasSession'
+[2014/05/02 05:29:42] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004960;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:29:42] entering with action = 'dashboard'
+[2014/05/02 05:29:42] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004960;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:49:06] entering with action = 'hasSession'
+[2014/05/02 05:49:06] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399004982;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:49:23] entering with action = 'hasSession'
+[2014/05/02 05:49:23] a:0:{}
+[2014/05/02 05:49:23] entering with action = 'hasSession'
+[2014/05/02 05:49:23] a:0:{}
+[2014/05/02 05:49:39] entering with action = 'hasSession'
+[2014/05/02 05:49:39] a:0:{}
+[2014/05/02 05:50:32] entering with action = 'hasSession'
+[2014/05/02 05:50:32] a:0:{}
+[2014/05/02 05:52:17] entering with action = 'hasSession'
+[2014/05/02 05:52:17] a:0:{}
+[2014/05/02 05:52:51] entering with action = 'doLogin'
+[2014/05/02 05:52:51] a:0:{}
+[2014/05/02 05:52:51] logging in user admin
+[2014/05/02 05:54:05] entering with action = 'hasSession'
+[2014/05/02 05:54:05] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006371;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:54:05] entering with action = 'dashboard'
+[2014/05/02 05:54:05] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006371;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:54:10] entering with action = 'hasSession'
+[2014/05/02 05:54:10] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006445;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:54:10] entering with action = 'dashboard'
+[2014/05/02 05:54:10] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006445;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:54:19] entering with action = 'hasSession'
+[2014/05/02 05:54:19] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006450;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:54:19] entering with action = 'dashboard'
+[2014/05/02 05:54:19] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006450;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:54:20] entering with action = 'hasSession'
+[2014/05/02 05:54:20] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006459;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 05:54:20] entering with action = 'dashboard'
+[2014/05/02 05:54:20] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006459;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:08:32] entering with action = 'hasSession'
+[2014/05/02 06:08:32] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399006460;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:08:36] entering with action = 'doLogin'
+[2014/05/02 06:08:36] a:0:{}
+[2014/05/02 06:08:36] logging in user admin
+[2014/05/02 06:10:04] entering with action = 'hasSession'
+[2014/05/02 06:10:04] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007316;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:10:04] entering with action = 'dashboard'
+[2014/05/02 06:10:04] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007316;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:10:36] entering with action = 'hasSession'
+[2014/05/02 06:10:36] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007404;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:10:36] entering with action = 'dashboard'
+[2014/05/02 06:10:36] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007404;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:10:37] entering with action = 'hasSession'
+[2014/05/02 06:10:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007436;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:10:37] entering with action = 'dashboard'
+[2014/05/02 06:10:37] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007436;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:11:06] entering with action = 'hasSession'
+[2014/05/02 06:11:06] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007437;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:11:06] entering with action = 'dashboard'
+[2014/05/02 06:11:06] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007437;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:11:47] entering with action = 'hasSession'
+[2014/05/02 06:11:47] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007466;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:11:47] entering with action = 'dashboard'
+[2014/05/02 06:11:47] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007466;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:11:51] entering with action = 'hasSession'
+[2014/05/02 06:11:51] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007507;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:11:51] entering with action = 'dashboard'
+[2014/05/02 06:11:51] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007507;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:12:13] entering with action = 'hasSession'
+[2014/05/02 06:12:13] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007511;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:12:13] entering with action = 'dashboard'
+[2014/05/02 06:12:13] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007511;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:14:36] entering with action = 'hasSession'
+[2014/05/02 06:14:36] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007533;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:14:36] entering with action = 'dashboard'
+[2014/05/02 06:14:36] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007533;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:15:23] entering with action = 'hasSession'
+[2014/05/02 06:15:23] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007676;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:15:23] entering with action = 'dashboard'
+[2014/05/02 06:15:23] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007676;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:16:34] entering with action = 'hasSession'
+[2014/05/02 06:16:34] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007723;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:16:34] entering with action = 'dashboard'
+[2014/05/02 06:16:34] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007723;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:17:04] entering with action = 'hasSession'
+[2014/05/02 06:17:04] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007794;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:17:04] entering with action = 'dashboard'
+[2014/05/02 06:17:04] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007794;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:17:29] entering with action = 'hasSession'
+[2014/05/02 06:17:29] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007824;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:17:29] entering with action = 'dashboard'
+[2014/05/02 06:17:29] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007824;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:17:40] entering with action = 'hasSession'
+[2014/05/02 06:17:40] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007849;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:17:40] entering with action = 'dashboard'
+[2014/05/02 06:17:40] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007849;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:19:06] entering with action = 'hasSession'
+[2014/05/02 06:19:06] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007860;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:19:06] entering with action = 'dashboard'
+[2014/05/02 06:19:06] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007860;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:23:38] entering with action = 'hasSession'
+[2014/05/02 06:23:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007946;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:23:38] entering with action = 'dashboard'
+[2014/05/02 06:23:38] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399007946;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:23:39] entering with action = 'doLogout'
+[2014/05/02 06:23:39] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008218;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:23:40] entering with action = 'hasSession'
+[2014/05/02 06:23:40] a:0:{}
+[2014/05/02 06:23:41] entering with action = 'hasSession'
+[2014/05/02 06:23:41] a:0:{}
+[2014/05/02 06:23:41] entering with action = 'hasSession'
+[2014/05/02 06:23:41] a:0:{}
+[2014/05/02 06:23:42] entering with action = 'hasSession'
+[2014/05/02 06:23:42] a:0:{}
+[2014/05/02 06:23:42] entering with action = 'hasSession'
+[2014/05/02 06:23:42] a:0:{}
+[2014/05/02 06:23:46] entering with action = 'doLogin'
+[2014/05/02 06:23:46] a:0:{}
+[2014/05/02 06:23:46] logging in user admin
+[2014/05/02 06:24:43] entering with action = 'hasSession'
+[2014/05/02 06:24:43] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008226;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:24:43] entering with action = 'dashboard'
+[2014/05/02 06:24:43] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008226;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:24:45] entering with action = 'doLogout'
+[2014/05/02 06:24:45] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008283;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:24:46] entering with action = 'hasSession'
+[2014/05/02 06:24:46] a:0:{}
+[2014/05/02 06:24:51] entering with action = 'doLogin'
+[2014/05/02 06:24:51] a:0:{}
+[2014/05/02 06:24:51] logging in user admin
+[2014/05/02 06:24:56] entering with action = 'hasSession'
+[2014/05/02 06:24:56] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008291;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:24:56] entering with action = 'dashboard'
+[2014/05/02 06:24:56] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008291;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:24:56] entering with action = 'hasSession'
+[2014/05/02 06:24:56] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008296;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:24:57] entering with action = 'dashboard'
+[2014/05/02 06:24:57] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008296;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:25:21] entering with action = 'hasSession'
+[2014/05/02 06:25:21] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008297;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:25:21] entering with action = 'dashboard'
+[2014/05/02 06:25:21] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008297;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:25:24] entering with action = 'hasSession'
+[2014/05/02 06:25:24] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008321;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:25:24] entering with action = 'dashboard'
+[2014/05/02 06:25:24] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008321;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:26:05] entering with action = 'hasSession'
+[2014/05/02 06:26:05] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008324;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:26:05] entering with action = 'dashboard'
+[2014/05/02 06:26:05] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008324;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:26:16] entering with action = 'hasSession'
+[2014/05/02 06:26:16] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008365;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:26:16] entering with action = 'dashboard'
+[2014/05/02 06:26:16] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008365;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:27:28] entering with action = 'hasSession'
+[2014/05/02 06:27:28] a:4:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008376;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:27:29] entering with action = 'hasSession'
+[2014/05/02 06:27:29] a:0:{}
+[2014/05/02 06:27:34] entering with action = 'doLogin'
+[2014/05/02 06:27:34] a:0:{}
+[2014/05/02 06:27:34] logging in user admin
+[2014/05/02 06:28:44] entering with action = 'doLogout'
+[2014/05/02 06:28:44] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008454;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:28:46] entering with action = 'hasSession'
+[2014/05/02 06:28:46] a:0:{}
+[2014/05/02 06:28:58] entering with action = 'doLogin'
+[2014/05/02 06:28:58] a:0:{}
+[2014/05/02 06:28:58] logging in user admin
+[2014/05/02 06:35:33] entering with action = 'hasSession'
+[2014/05/02 06:35:33] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008538;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:35:33] entering with action = 'dashboard'
+[2014/05/02 06:35:33] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008538;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:35:49] entering with action = 'hasSession'
+[2014/05/02 06:35:49] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008933;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:35:49] entering with action = 'dashboard'
+[2014/05/02 06:35:49] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008933;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:35:50] entering with action = 'hasSession'
+[2014/05/02 06:35:50] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008949;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:35:50] entering with action = 'dashboard'
+[2014/05/02 06:35:50] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008949;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:36:07] entering with action = 'hasSession'
+[2014/05/02 06:36:07] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008950;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
+[2014/05/02 06:36:07] entering with action = 'dashboard'
+[2014/05/02 06:36:07] a:5:{s:4:"USER";s:5:"admin";s:5:"TIMER";i:1399008950;s:14:"SESSIONTIMEOUT";i:600;s:9:"SHORTNAME";s:6:"miguel";s:8:"FULLNAME";s:14:"miguel sanches";}
