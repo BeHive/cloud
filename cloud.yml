@@ -4,4 +4,7 @@ db:
  user: root
  pass: ad1das+0
 session:
- timeout: 60
+ timeout: 600
+log:
+ file: logs/cloud.log
+ level: 4
